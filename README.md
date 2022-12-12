@@ -17,7 +17,7 @@ https://github.com/JustinRuiz321/nfl-fan-base
   * [License](#license)
   * [Test](#test)
   * [Contributers](#contributers)
-  * [Questions](#questions?)
+  * [Questions? Contact Us!](#questions?-contact-us!)
   
   ## Technologies Used
   Front End 
