@@ -2,10 +2,14 @@
 
   ![badge](https://img.shields.io/badge/license-ISC--brightgreen)<br />
 
+## Original Repo Link
+https://github.com/JustinRuiz321/nfl-fan-base
+
   ## Description 
   NFL Fan Base is a website for the NFL enthusiast. When a user arrives on the landing page, they are able to view the most updated NFL news. Users can sign up for an account where they can view data from games from the current week or previous weeks. 
 
   ## Table of Contents
+  * [Original Repo Link](original-repo-link)
   * [Description](#description)
   * [Technologies Used](#technologies-used)
   * [Future Development](#future-development)
@@ -15,8 +19,6 @@
   * [Contributers](#contributers)
   * [Questions](#questions)
   
- 
-
   ## Technologies Used
   Front End 
   * React 
